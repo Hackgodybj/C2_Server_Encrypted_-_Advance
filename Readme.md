@@ -116,5 +116,3 @@ Just install the requirements:
 Then start the server:
 
 `python3 c2.py`
-
-
